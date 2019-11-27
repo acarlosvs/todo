@@ -1,0 +1,2 @@
+# todo
+Praticando react-native
